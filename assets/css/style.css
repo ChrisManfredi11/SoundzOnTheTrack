@@ -1437,6 +1437,11 @@ nav.navbar ul.navbar-nav li a:focus {
 --------------------------------------------------------------*/
 .discography {
   background: url(../img/Site_Images/pic1.jpg) center bottom no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
 }
 .discography .covers {
   position: relative;
