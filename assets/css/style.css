@@ -466,6 +466,7 @@ nav.navbar ul.navbar-nav li a:focus {
     display: block;
     height: 375px;
     margin-top: 10%;
+    max-width: 100%;
   }
   #bgvid {
     display: none;
