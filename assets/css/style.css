@@ -1459,6 +1459,9 @@ nav.navbar ul.navbar-nav li a:focus {
   .discography .covers ul li {
     width: 50%;
   }
+  .discography {
+    display: none;
+  }
 }
 @media screen and (max-width: 500px) {
   .discography .covers ul li {
@@ -1468,6 +1471,10 @@ nav.navbar ul.navbar-nav li a:focus {
     margin-right: auto;
     float: none;
     padding: 3px 0;
+  }
+
+  .discography {
+    display: none;
   }
 }
 .discography .covers ul li .wrapper-cover {
