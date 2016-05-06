@@ -141,7 +141,7 @@ body {
   height: 1px;
   left: 50%;
   margin-left: -15px;
-  background: #4D3C35;
+  background: white;
 }
 .category-title p {
   text-align: center;
@@ -1819,6 +1819,9 @@ nav.navbar ul.navbar-nav li a:focus {
   .gallery .masonry .grid-sizer.big,
   .gallery .masonry .item.big {
     width: 66.666666666666%;
+  }
+  .wrapper-img {
+  opacity: 1.0;
   }
 }
 @media screen and (max-width: 360px) {
